@@ -1,2 +1,4 @@
 # prompt-engineering
-Road map to be a professional prompt engineer
+Roadmap to be a professional prompt engineer
+- Sample repos
+- pro tips
